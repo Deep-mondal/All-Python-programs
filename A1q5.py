@@ -1,0 +1,5 @@
+a=int(input("Enter a number"))
+print("Greater number")
+print(a+1)
+print("Lesser Number")
+print(a-1)
